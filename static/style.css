@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+#result p {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
